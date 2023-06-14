@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "${lines[2]}"
+head -3 iacta | tail -1
